@@ -1,0 +1,16 @@
+{
+  "name" : "hull-starter",
+  "description" : "A Very minimal Ship for hull.io",
+  "version" : "0.0.1",
+  "index" : "ship.html",
+  "settings" : [
+    {
+      "name" : "color",
+      "title" : "Color",
+      "type" : "string",
+      "format" : "color",
+      "default" : "#ff0000"
+    }
+  ],
+  "locales" : ["en"]
+}
